@@ -1,7 +1,7 @@
 url: https://api2.getrewell.com
-status: down
-code: 503
-responseTime: 213
-lastUpdated: 2023-08-10T15:54:27.490Z
+status: up
+code: 200
+responseTime: 384
+lastUpdated: 2023-08-10T17:08:49.602Z
 startTime: Thu Aug 03 2023 17:21:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
