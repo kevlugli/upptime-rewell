@@ -1,7 +1,7 @@
 url: https://sapi2.getrewell.com
-status: down
-code: 504
-responseTime: 10157
-lastUpdated: 2023-11-27T04:46:02.199Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2023-11-27T04:53:48.549Z
 startTime: 2023-08-03T17:21:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
